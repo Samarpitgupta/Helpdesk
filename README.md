@@ -1,1 +1,1 @@
-# Helpdesk-JWT
+# Helpdesk-JWT implementation
